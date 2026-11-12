@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="KuoYia · 保持好奇，热爱编程，热爱生活" />
+  <img src="./assets/profile-banner-blue.svg" width="100%" alt="KuoYia · 保持好奇，热爱编程，热爱生活" />
 </p>
 
 <div align="center">
