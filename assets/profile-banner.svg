@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">KuoYia — Code with curiosity. Live with energy.</title>
+<desc id="desc">Navy and teal personal profile banner with an abstract ocean wave and a code symbol.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1224"/><stop offset="1" stop-color="#102e40"/></linearGradient>
+<linearGradient id="wave"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a7f3d0"/></linearGradient>
+<pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#7dd3fc" stroke-opacity=".06"/></pattern>
+</defs>
+<rect width="1200" height="380" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="380" rx="24" fill="url(#grid)"/>
+<circle cx="1020" cy="160" r="206" fill="none" stroke="#67e8f9" stroke-opacity=".08"/>
+<circle cx="1020" cy="160" r="151" fill="none" stroke="#67e8f9" stroke-opacity=".13"/>
+<circle cx="1020" cy="160" r="100" fill="#0f263b" stroke="#67e8f9" stroke-opacity=".2"/>
+<path d="M981 130l-30 30 30 30m77-60 30 30-30 30m-42-75-23 89" fill="none" stroke="url(#wave)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1120" cy="48" r="5" fill="#5eead4"/><circle cx="873" cy="201" r="4" fill="#93c5fd"/>
+<rect x="64" y="54" width="8" height="8" rx="4" fill="#5eead4"/>
+<text x="86" y="65" fill="#a5f3fc" font-family="Arial,sans-serif" font-size="14" letter-spacing="4">CURIOSITY IN MOTION</text>
+<text x="60" y="165" fill="#f0f9ff" font-family="Arial,sans-serif" font-size="86" font-weight="700" letter-spacing="-3">KuoYia<tspan fill="#5eead4">.</tspan></text>
+<text x="66" y="210" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="23">Code with curiosity. Live with energy.</text>
+<text x="66" y="264" fill="#7dd3fc" font-family="monospace" font-size="14" letter-spacing="2">CODE / EXPLORE / MOVE / REPEAT</text>
+<path d="M0 335C180 275 240 392 425 333S680 285 850 333s240-42 350-27" fill="none" stroke="url(#wave)" stroke-width="2" opacity=".5"/>
+<path d="M0 353C180 293 240 410 425 351S680 303 850 351s240-42 350-27" fill="none" stroke="#38bdf8" stroke-width="1" opacity=".2"/>
+</svg>
